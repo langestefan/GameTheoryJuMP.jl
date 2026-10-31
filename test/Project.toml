@@ -12,4 +12,4 @@ GameTheoryJuMP = {path = ".."}
 
 [compat]
 Aqua = "0.8"
-JET = "0.12"
+JET = "0.12, 0.13"
