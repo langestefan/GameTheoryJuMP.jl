@@ -13,4 +13,4 @@ using GameTheoryJuMP
 
 const SUITE = BenchmarkGroup()
 
-SUITE["hello_world"] = @benchmarkable GameTheoryJuMP.hello_world()
+SUITE["model"] = @benchmarkable Model()
