@@ -1,0 +1,5 @@
+[deps]
+GameTheoryJuMP = "5b6d5959-9e47-4d0d-aba8-57d45a2ef5cb"
+
+[sources]
+GameTheoryJuMP = {path = ".."}

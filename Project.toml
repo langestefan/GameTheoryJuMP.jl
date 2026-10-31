@@ -1,0 +1,10 @@
+name = "GameTheoryJuMP"
+uuid = "5b6d5959-9e47-4d0d-aba8-57d45a2ef5cb"
+version = "0.1.0"
+authors = ["Stefan de Lange <langestefan@msn.com>"]
+
+[workspace]
+projects = ["test", "docs", "benchmark", "examples"]
+
+[compat]
+julia = "1.12"

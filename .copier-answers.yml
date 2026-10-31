@@ -1,0 +1,14 @@
+# Changes here will be overwritten by Copier
+AddPrecommitUpdateCI: false
+Authors: Stefan de Lange <langestefan@msn.com>
+JuliaMinVersion: '1.12'
+License: MIT
+LicenseCopyrightHolders: Stefan de Lange
+PackageName: GameTheoryJuMP
+PackageOwner: langestefan
+PackageUUID: 5b6d5959-9e47-4d0d-aba8-57d45a2ef5cb
+StrategyConfirmIncluded: false
+StrategyLevel: 3
+StrategyReviewExcluded: false
+_commit: py-v0.2.0
+_src_path: https://github.com/JuliaBesties/BestieTemplate.jl

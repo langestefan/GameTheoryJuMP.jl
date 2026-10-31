@@ -1,0 +1,6 @@
+[deps]
+BenchmarkTools = "6e4b80f9-dd63-53aa-95a3-0cdb28fa8baf"
+GameTheoryJuMP = "5b6d5959-9e47-4d0d-aba8-57d45a2ef5cb"
+
+[sources]
+GameTheoryJuMP = {path = ".."}
